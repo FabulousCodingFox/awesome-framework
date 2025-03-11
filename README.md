@@ -22,6 +22,7 @@
   - [🕹️ Input Modules](#️-input-modules)
 - [🧑‍💻 Software](#-software)
   - [🐇 Firmware](#-firmware)
+  - [⚙️ Other Software](#️-other-software)
 
 --------------------
 
@@ -31,7 +32,7 @@
 
 **[`^        back to top        ^`](#table-of-contents)**
 
-- [DBrand](https://dbrand.com/shop/devices/framework-skins) - `Framework 16` `Framework 13`
+- [DBrand](https://dbrand.com/shop/devices/framework-skins) - `Framework 13` `Framework 16`
 - [SlickWraps](https://www.slickwraps.com/collections/framework-laptop-13-skins) - `Framework 13`
 - [ArmorSuit](https://www.armorsuit.com/products/armorsuit-militaryshield-vinyl-skin-wrap-film-for-framework-laptop-2023) - `Framework 13`
 - [M2 Skins](https://m2skins.com/products/framework-13-2021-skins) - `Framework 13`
@@ -51,7 +52,7 @@
 
 **[`^        back to top        ^`](#table-of-contents)**
 
-- [ViaScreens](https://viascreens.com/screen-protectors/framework/) - `Framework 16` `Framework 13`
+- [ViaScreens](https://viascreens.com/screen-protectors/framework/) - `Framework 13` `Framework 16`
 - [PhotoDon](https://www.photodon.com/p/screen-protector-framework-13-inch.html) - `Framework 13`
 - [BroTect](https://www.amazon.de/dp/B0D8BVPN32) - `Framework 16`
 
@@ -70,19 +71,19 @@
 **[`^        back to top        ^`](#table-of-contents)**
 
 - [Magnetic charger `🟢`](https://community.frame.work/t/full-power-magnetic-charging-card/10113) - [YouTube](https://www.youtube.com/watch?v=LwPOC8_xUMg), [Google Drive](https://drive.google.com/file/d/1VRF7_vOZ8BFrnwS2fjzWoJTxOssZ9eNG/view)
-- [Coral Edge TPU `🟢`](http://community.frame.work/t/google-coral-expansion-card/18551) - [GitHub](https://github.com/EvgeniGenchev/Google-Coral-Expansion-Card/), [Store](https://i2clabs.com.au/google-coral-usb3-expansion-card/)
+- [Coral Edge TPU `🟢`](https://community.frame.work/t/google-coral-expansion-card/18551) - [GitHub](https://github.com/EvgeniGenchev/Google-Coral-Expansion-Card/), [Store](https://i2clabs.com.au/google-coral-usb3-expansion-card/)
 - [Joystick `📢`](https://community.frame.work/t/framework-joystick-modules-turning-your-frame-work-13-into-an-handheld-coming-soon/39011)
 - [UART `🟢`](https://community.frame.work/t/uart-expansion-card/19643) - [GitHub](https://github.com/jyancat/UART-Expansion-Card), [Store](https://i2clabs.com.au/uart-expansion-card/)
-- [RS-232 `🟢`](http://community.frame.work/t/rs-232-framework-expansion-card/18545) - [GitHub](https://github.com/medo64/RS232FrameCard), [Store](https://www.medo64.com/store/rs232framecard/)
+- [RS-232 `🟢`](https://community.frame.work/t/rs-232-framework-expansion-card/18545) - [GitHub](https://github.com/medo64/RS232FrameCard), [Store](https://www.medo64.com/store/rs232framecard/)
 - [RS-485 `🟢`](https://www.medo64.com/2022/11/rs485-framework-expansion-card-ftdi-edition/) - [GitHub](https://github.com/medo64/RS485FrameCard)
 - CAN-bus `🟢` - [GitHub](https://github.com/medo64/Cananka/tree/main/Hardware/Board/Framework), [Store](https://www.medo64.com/2022/03/cananka-for-framework-laptop/)
-- [Solokeys Solo2 `🟢`](http://community.frame.work/t/solokeys-solo2-expansion-card/24120) - [GitHub](https://github.com/foosinn/Solo4Framework)
-- [LTE Cat 4 Cell Modem (Tim_Taylor) `📅`](http://community.frame.work/t/lte-cat-4-cell-modem-card/9454) - Exit Scammed
+- [Solokeys Solo2 `🟢`](https://community.frame.work/t/solokeys-solo2-expansion-card/24120) - [GitHub](https://github.com/foosinn/Solo4Framework)
+- [LTE Cat 4 Cell Modem (Tim_Taylor) `📅`](https://community.frame.work/t/lte-cat-4-cell-modem-card/9454) - Exit Scammed
 - [LTE Cat 4 Cell Modem (Jacob_Eva_LES) `📅`](https://community.frame.work/t/lte-cat-4-cell-modem-card/9454/110) - [Store (Not available anymore)](https://store.liberatedsystems.co.uk/product/opencom-lte/)
 - [Tiny storage compartment](https://community.frame.work/t/the-snack-drawer-store-now-made-with-real-snacks/43101) - [Store](https://layers3d.square.site/)
-- [DongleHider+ `🟢`](http://community.frame.work/t/donglehider-multiple-dongles-and-a-normal-usb-a-socket/47187) - [GitHub](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
-- [RP2040](http://community.frame.work/t/rp2040-expansion-card/20144) - [Store](https://i2clabs.com.au/rp2040-expansion-card/)
-- [Brick System `🟢`](http://community.frame.work/t/lego-brick-expansion-card/58711) - [Printables](https://www.printables.com/model/1031374-brick-system-expansion-card)
+- [DongleHider+ `🟢`](https://community.frame.work/t/donglehider-multiple-dongles-and-a-normal-usb-a-socket/47187) - [GitHub](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
+- [RP2040](https://community.frame.work/t/rp2040-expansion-card/20144) - [Store](https://i2clabs.com.au/rp2040-expansion-card/)
+- [Brick System `🟢`](https://community.frame.work/t/lego-brick-expansion-card/58711) - [Printables](https://www.printables.com/model/1031374-brick-system-expansion-card)
 
 [Other](https://community.frame.work/c/developer-program/expansion-card/90)
 
@@ -96,6 +97,9 @@
 
 **[`^        back to top        ^`](#table-of-contents)**
 
+- Eink display `📢` `📅` - [Tweet](https://x.com/zephray_wenting/status/1535041457035280392) `Framework 13`
+- [Six Screen Display `🟢`](https://cubiclenate.com/2024/10/12/six-monitor-workstation-for-my-framework-13/) - [Printables](https://www.printables.com/model/1037416-six-screen-semi-portable-laptop-display-system) `Framework 13`
+
 ### ⌨️ Keyboards
 
 **[`^        back to top        ^`](#table-of-contents)**
@@ -104,6 +108,14 @@
 
 **[`^        back to top        ^`](#table-of-contents)**
 
+> Disclaimer: Available for Framework 16 only
+
+- [RGB LED Matrix `🟢`](https://community.frame.work/t/show-rgb-led-matrix-input-module/36968) - [GitHub](https://github.com/corndog2000/RGB-LED-Matrix-Input-Module)
+- [Whiteboard `🟢`](https://community.frame.work/t/whiteboard-input-module/58985)
+- [Touchscreen E-Paper](https://community.frame.work/t/showcase-touchscreen-e-paper-input-module/62895) - [GitHub](https://github.com/arthomnix/FW16_EPD)
+
+[Other](https://community.frame.work/c/developer-program/input-module/135)
+
 --------------------
 
 ## 🧑‍💻 Software
@@ -111,6 +123,19 @@
 ### 🐇 Firmware
 
 **[`^        back to top        ^`](#table-of-contents)**
+
+- [Coreboot `🟢`](https://www.coreboot.org/)
+
+### ⚙️ Other Software
+
+**[`^        back to top        ^`](#table-of-contents)**
+
+- Embedded Controller Mods `🟢` `📅` - [Forum](https://community.frame.work/t/exploring-the-embedded-controller/12846) `Framework 13`
+- Fan Controller `🟢` - [Forum](https://community.frame.work/t/fan-speed-controller-with-custom-speed-curve/17208), [GitHub](https://github.com/TamtamHero/fw-fanctrl) `Framework 13` `Framework 16`
+- EC tool GUI `🟢` `📅` - [Forum](https://community.frame.work/t/framework-embedded-controller-gui-i-made/16856), [GitHub](https://github.com/boredom101/fw-ec-gui)
+- Rust based EC tool GUI `🟢` `📅` - [Forum](https://community.frame.work/t/gui-for-ectool-backlight-etc/24165), [GitHub](https://github.com/taotien/framework_toolbox)
+- Framework Hub `🟢` - [Forum](https://community.frame.work/t/project-framework-laptop-hub-py-edition-a-python-based-control-center-for-framework-laptops-16/61883), [GitHub](https://github.com/Oganoth/Framework-Control-center) `Framework 13` `Framework 16`
+- Framework16 Led Matrix Manager `🟢` `🔸` - [GitHub](https://github.com/FabulousCodingFox/framework16-led-matrix-manager) `Framework 16`
 
 --------------------
 

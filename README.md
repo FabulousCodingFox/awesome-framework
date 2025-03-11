@@ -9,7 +9,8 @@
 ## Table of contents
 
 - [🎨 Decoration]()
-  - [🖌️ Skins & Wraps](#-skins--wraps)
+  - [🖌️ Skins & Wraps](#️-skins--wraps)
+  - [🖼️ Wallpapers]()
 - [🛡️ Protection]()
   - [💻 Screen Protectors]()
   - [👝 Sleeves]()
@@ -22,6 +23,8 @@
 - [🧑‍💻 Software]()
   - [🐇 Firmware]()
 
+--------------------
+
 ## 🎨 Decoration
 
 ### 🖌️ Skins & Wraps
@@ -33,21 +36,34 @@
 - [ArmorSuit](https://www.armorsuit.com/products/armorsuit-militaryshield-vinyl-skin-wrap-film-for-framework-laptop-2023) - `Framework 13`
 - [M2 Skins](https://m2skins.com/products/framework-13-2021-skins) - `Framework 13`
 
-## 🛡️ Protection
+### 🖼️ Wallpapers
 
 **[`^        back to top        ^`](#table-of-contents)**
+
+- [Framework Fan Art](https://community.frame.work/t/framework-fan-art/6626)
+- [3:2 Desktop Wallpapers](https://community.frame.work/t/3-2-desktop-wallpapers/3533)
+
+--------------------
+
+## 🛡️ Protection
 
 ### 💻 Screen Protectors
 
 **[`^        back to top        ^`](#table-of-contents)**
 
+- [ViaScreens](https://viascreens.com/screen-protectors/framework/) - `Framework 16` `Framework 13`
+- [PhotoDon](https://www.photodon.com/p/screen-protector-framework-13-inch.html) - `Framework 13`
+- [BroTect](https://www.amazon.de/dp/B0D8BVPN32) - `Framework 16`
+
 ### 👝 Sleeves
 
 **[`^        back to top        ^`](#table-of-contents)**
 
-## 🪛 Hardware
+- [CushCase](https://www.cushcase.com/collections/framework-laptop-sleeve-cases) - `Framework 13` `Framework 16`
 
-**[`^        back to top        ^`](#table-of-contents)**
+--------------------
+
+## 🪛 Hardware
 
 ### 🔧 Expansion Cards
 
@@ -69,10 +85,16 @@
 
 **[`^        back to top        ^`](#table-of-contents)**
 
-## 🧑‍💻 Software
+--------------------
 
-**[`^        back to top        ^`](#table-of-contents)**
+## 🧑‍💻 Software
 
 ### 🐇 Firmware
 
 **[`^        back to top        ^`](#table-of-contents)**
+
+--------------------
+
+* Early Release / BETA ` 🔸 `
+* Open-Source Software / Design ` 🟢 `
+* Stale / Inactive / May not work anymore ` 📅 `

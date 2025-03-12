@@ -37,7 +37,6 @@
 
 **[`^        back to top        ^`](#contents)**
 
-<!--sort-->
 - [DBrand](https://dbrand.com/shop/devices/framework-skins) - `Framework 13` `Framework 16`
 - [SlickWraps](https://www.slickwraps.com/collections/framework-laptop-13-skins) - `Framework 13`
 - [ArmorSuit](https://www.armorsuit.com/products/armorsuit-militaryshield-vinyl-skin-wrap-film-for-framework-laptop-2023) - `Framework 13`
@@ -47,7 +46,6 @@
 
 **[`^        back to top        ^`](#contents)**
 
-<!--sort-->
 - [Framework Fan Art](https://community.frame.work/t/framework-fan-art/6626)
 - [3:2 Desktop Wallpapers](https://community.frame.work/t/3-2-desktop-wallpapers/3533)
 
@@ -59,7 +57,6 @@
 
 **[`^        back to top        ^`](#contents)**
 
-<!--sort-->
 - [ViaScreens](https://viascreens.com/screen-protectors/framework/) - `Framework 13` `Framework 16`
 - [PhotoDon](https://www.photodon.com/p/screen-protector-framework-13-inch.html) - `Framework 13`
 - [BroTect](https://www.amazon.de/dp/B0D8BVPN32) - `Framework 16`
@@ -78,7 +75,6 @@
 
 **[`^        back to top        ^`](#contents)**
 
-<!--sort-->
 - [Magnetic charger `🟢`](https://community.frame.work/t/full-power-magnetic-charging-card/10113) - [YouTube](https://www.youtube.com/watch?v=LwPOC8_xUMg), [Google Drive](https://drive.google.com/file/d/1VRF7_vOZ8BFrnwS2fjzWoJTxOssZ9eNG/view)
 - [Coral Edge TPU `🟢`](https://community.frame.work/t/google-coral-expansion-card/18551) - [GitHub](https://github.com/EvgeniGenchev/Google-Coral-Expansion-Card/), [Store](https://i2clabs.com.au/google-coral-usb3-expansion-card/)
 - [Joystick `📢`](https://community.frame.work/t/framework-joystick-modules-turning-your-frame-work-13-into-an-handheld-coming-soon/39011)
@@ -106,7 +102,6 @@
 
 **[`^        back to top        ^`](#contents)**
 
-<!--sort-->
 - Eink display `📢` `📅` - [Tweet](https://x.com/zephray_wenting/status/1535041457035280392) `Framework 13`
 - [Six Screen Display `🟢`](https://cubiclenate.com/2024/10/12/six-monitor-workstation-for-my-framework-13/) - [Printables](https://www.printables.com/model/1037416-six-screen-semi-portable-laptop-display-system) `Framework 13`
 
@@ -120,7 +115,6 @@
 
 > Disclaimer: Available for Framework 16 only
 
-<!--sort-->
 - [RGB LED Matrix `🟢`](https://community.frame.work/t/show-rgb-led-matrix-input-module/36968) - [GitHub](https://github.com/corndog2000/RGB-LED-Matrix-Input-Module)
 - [Whiteboard `🟢`](https://community.frame.work/t/whiteboard-input-module/58985)
 - [Touchscreen E-Paper](https://community.frame.work/t/showcase-touchscreen-e-paper-input-module/62895) - [GitHub](https://github.com/arthomnix/FW16_EPD)
@@ -135,14 +129,12 @@
 
 **[`^        back to top        ^`](#contents)**
 
-<!--sort-->
 - [Coreboot `🟢`](https://www.coreboot.org/)
 
 ### ⚙️ Other Software
 
 **[`^        back to top        ^`](#contents)**
 
-<!--sort-->
 - Embedded Controller Mods `🟢` `📅` - [Forum](https://community.frame.work/t/exploring-the-embedded-controller/12846) `Framework 13`
 - Fan Controller `🟢` - [Forum](https://community.frame.work/t/fan-speed-controller-with-custom-speed-curve/17208), [GitHub](https://github.com/TamtamHero/fw-fanctrl) `Framework 13` `Framework 16`
 - EC tool GUI `🟢` `📅` - [Forum](https://community.frame.work/t/framework-embedded-controller-gui-i-made/16856), [GitHub](https://github.com/boredom101/fw-ec-gui)

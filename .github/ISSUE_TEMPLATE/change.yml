@@ -1,0 +1,23 @@
+name: Change
+description: Is a project entry outdated, incorrect, or missing information?
+title: Change <Project name>
+assignees:
+  - FabulousCodingFox
+labels:
+  - change
+body:
+  - type: input
+    id: project-name
+    attributes:
+      label: Project name
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Change
+      description: >-
+        Please let us know what you would like to be changed and the reason for
+        the change.
+    validations:
+      required: true

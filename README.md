@@ -1,3 +1,4 @@
+<!--lint disable double-link awesome-heading awesome-toc awesome-list-item-->
 <p align="center">
   <h1 align="center">Awesome Framework</h1>
 </p>
@@ -10,11 +11,11 @@
 
 ---
 
-## Table of contents
+## Contents
 
 - [🎨 Decoration](#-decoration)
   - [🖌️ Skins & Wraps](#️-skins--wraps)
-  - [🖼️ Wallpapers](️#-wallpapers)
+  - [🖼️ Wallpapers](§-wallpapers)
 - [🛡️ Protection](#️-protection)
   - [💻 Screen Protectors](#-screen-protectors)
   - [👝 Sleeves](#-sleeves)
@@ -34,7 +35,7 @@
 
 ### 🖌️ Skins & Wraps
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 <!--sort-->
 - [DBrand](https://dbrand.com/shop/devices/framework-skins) - `Framework 13` `Framework 16`
@@ -44,7 +45,7 @@
 
 ### 🖼️ Wallpapers
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 <!--sort-->
 - [Framework Fan Art](https://community.frame.work/t/framework-fan-art/6626)
@@ -56,7 +57,7 @@
 
 ### 💻 Screen Protectors
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 <!--sort-->
 - [ViaScreens](https://viascreens.com/screen-protectors/framework/) - `Framework 13` `Framework 16`
@@ -65,7 +66,7 @@
 
 ### 👝 Sleeves
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 - [CushCase](https://www.cushcase.com/collections/framework-laptop-sleeve-cases) - `Framework 13` `Framework 16`
 
@@ -75,7 +76,7 @@
 
 ### 🔧 Expansion Cards
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 <!--sort-->
 - [Magnetic charger `🟢`](https://community.frame.work/t/full-power-magnetic-charging-card/10113) - [YouTube](https://www.youtube.com/watch?v=LwPOC8_xUMg), [Google Drive](https://drive.google.com/file/d/1VRF7_vOZ8BFrnwS2fjzWoJTxOssZ9eNG/view)
@@ -97,13 +98,13 @@
 
 ### 🧠 Mainboards
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 - [RISC-V Mainboard (DeepComputing)](https://frame.work/products/deep-computing-risc-v-mainboard) - `Framework 13`
 
 ### 🖥️ Displays
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 <!--sort-->
 - Eink display `📢` `📅` - [Tweet](https://x.com/zephray_wenting/status/1535041457035280392) `Framework 13`
@@ -111,11 +112,11 @@
 
 ### ⌨️ Keyboards
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 ### 🕹️ Input Modules
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 > Disclaimer: Available for Framework 16 only
 
@@ -132,14 +133,14 @@
 
 ### 🐇 Firmware
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 <!--sort-->
 - [Coreboot `🟢`](https://www.coreboot.org/)
 
 ### ⚙️ Other Software
 
-**[`^        back to top        ^`](#table-of-contents)**
+**[`^        back to top        ^`](#contents)**
 
 <!--sort-->
 - Embedded Controller Mods `🟢` `📅` - [Forum](https://community.frame.work/t/exploring-the-embedded-controller/12846) `Framework 13`

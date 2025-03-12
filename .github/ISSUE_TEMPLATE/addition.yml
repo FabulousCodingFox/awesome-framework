@@ -1,6 +1,6 @@
 name: Addition
 description: Is something missing from this list?
-title: Add <project-name>
+title: Add <Project name>
 assignees:
   - FabulousCodingFox
 labels:
@@ -33,8 +33,3 @@ body:
         its forum post, GitHub repository, and any other relevant sources.
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: >-
-        This template was generated with [Issue Forms
-        Creator](https://issue-forms-creator.netlify.app)

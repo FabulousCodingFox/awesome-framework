@@ -1,0 +1,21 @@
+name: Removal
+description: Do you believe a project should be removed from this list?
+title: Remove <Project name>
+assignees:
+  - FabulousCodingFox
+labels:
+  - removal
+body:
+  - type: input
+    id: project-name
+    attributes:
+      label: Project name
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      description: Please let us know why you believe this project should be removed.
+    validations:
+      required: true

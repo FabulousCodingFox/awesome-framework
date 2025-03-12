@@ -1,16 +1,18 @@
-<!--lint disable awesome-heading awesome-toc double-link awesome-list-item-->
-
 <p align="center">
   <h1 align="center">Awesome Framework</h1>
 </p>
 
 <blockquote align="center">A list of awesome Framework Community projects, products, guides, and companion software</blockquote>
 
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="https://awesome.re"></a>
+</p>
+
 ---
 
 ## Table of contents
 
-- [🎨 Decoration](-decoration)
+- [🎨 Decoration](#-decoration)
   - [🖌️ Skins & Wraps](#️-skins--wraps)
   - [🖼️ Wallpapers](️#-wallpapers)
 - [🛡️ Protection](#️-protection)
@@ -22,7 +24,7 @@
   - [🖥️ Displays](#️-displays)
   - [⌨️ Keyboards](#️-keyboards)
   - [🕹️ Input Modules](#️-input-modules)
-- [🧑‍💻 Software](#-software)
+- [🧰 Software](#-software)
   - [🐇 Firmware](#-firmware)
   - [⚙️ Other Software](#️-other-software)
 
@@ -126,7 +128,7 @@
 
 ---
 
-## 🧑‍💻 Software
+## 🧰 Software
 
 ### 🐇 Firmware
 

@@ -1,0 +1,40 @@
+name: Addition
+description: Is something missing from this list?
+title: Add <project-name>
+assignees:
+  - FabulousCodingFox
+labels:
+  - addition
+body:
+  - type: dropdown
+    id: project-type
+    attributes:
+      label: Project type
+      options:
+        - Decoration
+        - Protection
+        - Hardware
+        - Software
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: project-name
+    attributes:
+      label: Project name
+    validations:
+      required: true
+  - type: textarea
+    id: project-description
+    attributes:
+      label: Project description
+      description: >-
+        Please provide a brief introduction to the project, along with links to
+        its forum post, GitHub repository, and any other relevant sources.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: >-
+        This template was generated with [Issue Forms
+        Creator](https://issue-forms-creator.netlify.app)

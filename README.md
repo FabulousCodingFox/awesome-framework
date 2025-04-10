@@ -84,7 +84,9 @@
 - CAN-bus `🟢` - [GitHub](https://github.com/medo64/Cananka/tree/main/Hardware/Board/Framework), [Store](https://www.medo64.com/2022/03/cananka-for-framework-laptop/)
 - [Solokeys Solo2 `🟢`](https://community.frame.work/t/solokeys-solo2-expansion-card/24120) - [GitHub](https://github.com/foosinn/Solo4Framework)
 - [LTE Cat 4 Cell Modem (Tim_Taylor) `📅`](https://community.frame.work/t/lte-cat-4-cell-modem-card/9454) - Exit Scammed
-- [LTE Cat 4 Cell Modem (Jacob_Eva_LES) `📅`](https://community.frame.work/t/lte-cat-4-cell-modem-card/9454/110) - [Store (Not available anymore)](https://store.liberatedsystems.co.uk/product/opencom-lte/)
+- [LTE Cat 4 Cell Modem (Jacob_Eva_LES) `📅` `🟢`](https://community.frame.work/t/lte-cat-4-cell-modem-card/9454/110) - [Store (Not available anymore)](https://store.liberatedsystems.co.uk/product/opencom-lte/), [Source](https://git.liberatedsystems.co.uk/jacob.eva/opencom-lte)
+- [LTE Cat 4 Cell Modem (Zokhoi) `🟢` `🔸`](https://community.frame.work/t/lte-cat-4-cell-modem-card/9454/315) - [GitHub](https://github.com/Zokhoi/framework-cellular-card)
+- [Revisiting 4G (Michael_Bebjak) `🔸`](https://community.frame.work/t/revisiting-4g/66683/3)
 - [Tiny storage compartment](https://community.frame.work/t/the-snack-drawer-store-now-made-with-real-snacks/43101) - [Store](https://layers3d.square.site/)
 - [DongleHider+ `🟢`](https://community.frame.work/t/donglehider-multiple-dongles-and-a-normal-usb-a-socket/47187) - [GitHub](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
 - [RP2040](https://community.frame.work/t/rp2040-expansion-card/20144) - [Store](https://i2clabs.com.au/rp2040-expansion-card/)
